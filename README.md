@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm' Shilpi Mahato</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Developer who enjoys building reliable systems, clean UIs, and efficient algorithms</h3>
 <img align="right" alt="coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpimahato28&label=Profile%20views&color=0e75b6&style=flat" alt="shilpimahato28" /> </p>
